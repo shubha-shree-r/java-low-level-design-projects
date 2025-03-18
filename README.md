@@ -12,4 +12,4 @@ A comprehensive Low-Level Design (LLD) repository featuring class diagrams, modu
 
 ✅ UML Diagrams 📊
 
-✅ Scalable Architecture 🏢
+✅ Scalable Architecture 🏢  
